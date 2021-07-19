@@ -1,2 +1,2 @@
 # Fracture-phase-field
-This is used to simulate damage evolution by phase-field modlling
+The first example simulates Darcy flow
